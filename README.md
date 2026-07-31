@@ -4,7 +4,7 @@
 
 Static analysis tool that verifies interrupt-disabled critical sections stay within cycle budgets on ARM Cortex-M microcontrollers.
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 
 ---
@@ -288,7 +288,7 @@ while (condition) { ... }
 
 ## 📄 License
 
-Apache 2.0 - See [LICENSE](LICENSE) file.
+MIT License - See [LICENSE](LICENSE) file.
 
 ---
 
